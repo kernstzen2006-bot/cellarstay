@@ -886,7 +886,7 @@ function Footer() {
         <div className="text-sm">
           <div className="font-medium text-[color:var(--ink)]">Talk to us</div>
           <ul className="mt-3 space-y-2 text-muted-foreground">
-            <li><a href="mailto:ernstzenkhalid6@gmail.com" className="hover:text-[color:var(--gold)]">ernstzenkhalid6@gmail.com</a></li>
+            <li><a href="mailto:cellarstayai@gmail.com" className="hover:text-[color:var(--gold)]">cellarstayai@gmail.com</a></li>
             <li><a href={WHATSAPP_URL} target="_blank" rel="noreferrer" className="hover:text-[color:var(--gold)]">WhatsApp us</a></li>
             <li>Cape Winelands · Boland · Western Cape</li>
           </ul>
