@@ -38,3 +38,7 @@ lerna-debug.log*
 
 # Local runtime files
 *.local
+
+.dev.vars*
+!.dev.vars.example
+!.env.example
